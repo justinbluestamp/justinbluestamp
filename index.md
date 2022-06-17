@@ -1,9 +1,9 @@
-﻿# Project Name/Title Goes Here
+﻿# Justin Meme Website
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Justin M | Clown College | Memeology | PhD Candidate
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/q6EoRBvdVPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
