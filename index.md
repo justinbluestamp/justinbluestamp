@@ -7,7 +7,6 @@ This will serve as a brief description of your project. Limit this to three sent
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/q6EoRBvdVPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/YBLPzBuEaPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Code
 
